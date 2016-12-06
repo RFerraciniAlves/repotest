@@ -1,1 +1,1 @@
-conflict line
+first line
